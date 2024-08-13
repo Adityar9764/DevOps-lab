@@ -1,0 +1,1 @@
+This is a sample file of devops lab 3 and we are connecting local repo to the remote repo
